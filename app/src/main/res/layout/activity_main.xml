@@ -51,8 +51,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:text="07/11/2021"
+        android:layout_marginTop="25dp"
         android:textColor="@color/textColor"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -61,7 +60,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Selected Date"
-        android:textColor="@color/cardview_shadow_start_color"
+        android:textColor="@color/lightGrayTextColor"
         android:textSize="15sp"
         android:textStyle="bold" />
 
@@ -69,7 +68,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="14400"
         android:textColor="@color/textColor"
         android:textSize="25sp"
         android:textStyle="bold" />
@@ -78,7 +76,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="In minutes till date"
-        android:textColor="@color/cardview_shadow_start_color"
+        android:textColor="@color/lightGrayTextColor"
         android:textSize="15sp"
         android:textStyle="bold" />
 
